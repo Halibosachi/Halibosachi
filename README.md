@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Halil 👋
 
-<!--
-**Halibosachi/Halibosachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student**
 
-Here are some ideas to get you started:
+Welcome to my digital workspace! I am currently focused on building a strong programming foundation, exploring system-level concepts, and improving my coding habits step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 1st-year Software Engineering student at Çankaya University.
+- 🌱 Leveling up my skills in C++**.
+- ⚡ Regularly committing my daily practice codes and learning logs.
+
+**Languages and Tools:**
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
