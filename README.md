@@ -5,7 +5,7 @@
 Welcome to my digital workspace! I am currently focused on building a strong programming foundation, exploring system-level concepts, and improving my coding habits step by step.
 
 - 🎓 1st-year Software Engineering student at Çankaya University.
-- 🌱 Leveling up my skills in C++**.
+- 🌱 Leveling up my skills in C++.
 - ⚡ Regularly committing my daily practice codes and learning logs.
 
 **Languages and Tools:**
